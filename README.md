@@ -1,5 +1,6 @@
 # Nhon-Nguyen.github.io
 Arch Linux Assignment
+
 Assignment Description:
 Now that you have a solid foundation of Linux, it's time to create your own Linux VM instead of relying on pre-built distributions. Why would you do such a thing? Well... there are lots (hundreds) of different Linux distros for a reason - different people want different things. Being able to tailor your Linux OS to exactly what you want in there, and nothing else, is a feature that neither Windows or macOS provide. Most importantly, for this course, creating your own Linux VM will provide you a tangible artifact that proves you can use the baseline Linux skills you have learned to do something potentially useful.
 
