@@ -20,5 +20,7 @@
 ## Add Color Coding to Terminal
 <img width="513" alt="color" src="https://user-images.githubusercontent.com/114501322/198359073-bdb9fbf3-e893-41ab-ae4c-ac4f2c50b5fb.png">
 
+## Install SSH and Use It to SSH into Class Gateway
+<img width="513" alt="ssh connect" src="https://user-images.githubusercontent.com/114501322/198372117-bc80a080-d7bf-43e3-a3ea-df791980d074.png">
 
 
