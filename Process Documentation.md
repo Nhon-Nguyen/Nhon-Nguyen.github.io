@@ -17,4 +17,8 @@
 ## Installed Zshell
 <img width="511" alt="zshell" src="https://user-images.githubusercontent.com/114501322/198176022-485c3346-e298-4279-bfe6-b81522e89c91.png">
 
+## Add Color Coding to Terminal
+<img width="513" alt="color" src="https://user-images.githubusercontent.com/114501322/198359073-bdb9fbf3-e893-41ab-ae4c-ac4f2c50b5fb.png">
+
+
 
