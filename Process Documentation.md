@@ -25,6 +25,6 @@
 
 ## Add a few aliases to .bashrc
 
-### I add "alias c='clear'"
+### I add alias c='clear'
 <img width="452" alt="clear" src="https://user-images.githubusercontent.com/114501322/198377356-3f76f40b-9555-4067-be58-c710a5c55067.png">
 
