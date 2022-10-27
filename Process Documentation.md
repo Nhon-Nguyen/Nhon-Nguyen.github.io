@@ -23,4 +23,8 @@
 ## Install SSH and Use It to SSH into Class Gateway
 <img width="513" alt="ssh connect" src="https://user-images.githubusercontent.com/114501322/198372117-bc80a080-d7bf-43e3-a3ea-df791980d074.png">
 
+## Add a few aliases to .bashrc
+
+### I add "clear" alias
+<img width="452" alt="clear" src="https://user-images.githubusercontent.com/114501322/198377356-3f76f40b-9555-4067-be58-c710a5c55067.png">
 
