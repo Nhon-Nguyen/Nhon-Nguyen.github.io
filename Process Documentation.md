@@ -7,6 +7,7 @@
 
 ## I use the following command to setup installation:
 'python -m archinstall guided'
+
 <img width="514" alt="setup pre-install" src="https://user-images.githubusercontent.com/114501322/197921136-e1309cd1-4ab4-4158-9590-48ef4294b6fc.png">
 
 ### In this step I am going to set up the following list:
