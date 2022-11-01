@@ -10,11 +10,14 @@
 
 ### In this step I am going to set up the following list:
 - Select language
-- Set up drive and partition for Arch
+- Keyboard layout
+- Set up drive(s) and partition for Arch
 - Add root password
 - Add user account and password
 - Set up desktop environment
+- Set up audio
 - Add packages
+- Timezone
 
 ## Add Users and Password (sudo permissions): nhon and codi, Display Manager SSDM
 <img width="513" alt="desktop" src="https://user-images.githubusercontent.com/114501322/198114799-53bbf970-aea8-4bb6-8949-1fb744506a68.png">
