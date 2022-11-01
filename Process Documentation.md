@@ -12,7 +12,7 @@
 <img width="960" alt="Ready to Use Terminal in Arch Linux" src="https://user-images.githubusercontent.com/114501322/197847535-78daf80a-a011-41a5-be71-275c6c676bf0.png">
 
 ## I use the following command to setup installation:
-'python -m archinstall guided'
+'python -m archinstall guided' This command is an easy and fast way to prepare Arch Linux Installation.
 
 <img width="514" alt="setup pre-install" src="https://user-images.githubusercontent.com/114501322/197921136-e1309cd1-4ab4-4158-9590-48ef4294b6fc.png">
 
