@@ -42,7 +42,7 @@
 ## Install SSH and Use It to SSH into Class Gateway
 <img width="513" alt="ssh connect" src="https://user-images.githubusercontent.com/114501322/198372117-bc80a080-d7bf-43e3-a3ea-df791980d074.png">
 
-## Some of my aliases
+## Some of My Aliases
 <img width="513" alt="aliases 2" src="https://user-images.githubusercontent.com/114501322/199332335-da5fe2ed-d46e-486b-b96f-549604c442ab.png">
 
 
