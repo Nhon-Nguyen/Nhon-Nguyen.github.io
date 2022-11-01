@@ -13,7 +13,7 @@
 - Keyboard layout
 - Set up drive(s) and partition for Arch
 - Add root password
-- Add user account and password
+- Add user account and password (sudo permissions)
 - Set up desktop environment
 - Set up audio
 - Add packages
