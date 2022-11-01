@@ -43,6 +43,7 @@
 <img width="513" alt="ssh connect" src="https://user-images.githubusercontent.com/114501322/198372117-bc80a080-d7bf-43e3-a3ea-df791980d074.png">
 
 ## Some of my aliases
-<img width="512" alt="aliases" src="https://user-images.githubusercontent.com/114501322/199106944-27040604-66ea-44ef-ac2b-b3c783302619.png">
+<img width="513" alt="aliases 2" src="https://user-images.githubusercontent.com/114501322/199332335-da5fe2ed-d46e-486b-b96f-549604c442ab.png">
+
 
 
