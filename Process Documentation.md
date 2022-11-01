@@ -5,7 +5,7 @@
 ## Booting Into Arch Linux Live
 <img width="960" alt="Ready to Use Terminal in Arch Linux" src="https://user-images.githubusercontent.com/114501322/197847535-78daf80a-a011-41a5-be71-275c6c676bf0.png">
 
-## I use the following command to begin installation: 'python -m archinstall guided'
+## I use the following command to setup installation: 'python -m archinstall guided'
 <img width="514" alt="setup pre-install" src="https://user-images.githubusercontent.com/114501322/197921136-e1309cd1-4ab4-4158-9590-48ef4294b6fc.png">
 
 ## Add Users and Password (sudo permissions): nhon and codi, Display Manager SSDM
@@ -24,7 +24,6 @@
 <img width="513" alt="ssh connect" src="https://user-images.githubusercontent.com/114501322/198372117-bc80a080-d7bf-43e3-a3ea-df791980d074.png">
 
 ## Some of my aliases
-
 <img width="512" alt="aliases" src="https://user-images.githubusercontent.com/114501322/199106944-27040604-66ea-44ef-ac2b-b3c783302619.png">
 
 
