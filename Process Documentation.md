@@ -22,7 +22,7 @@
 - Set up drive(s) and partition for Arch
 - Add root password
 - Add user account and password (sudo permissions)
-- Set up desktop environment
+- Set up desktop environment/GUI
 - Set up audio
 - Add packages
 - Timezone
