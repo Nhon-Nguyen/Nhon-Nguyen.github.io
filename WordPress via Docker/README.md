@@ -1,4 +1,4 @@
-# Installing-Docker-on-Ubuntu-20.04
+# Installing WordPress via Docker on Ubuntu 20.04
 Install Docker on Ubuntu 20.04
 For course projects, we will need access to a Docker installation. To install Docker on your private Ubuntu Server 20.04 VM, follow the steps outlined in the official Docker install instructions: 
 
