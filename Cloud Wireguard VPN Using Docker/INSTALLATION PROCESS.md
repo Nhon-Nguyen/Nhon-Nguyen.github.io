@@ -16,3 +16,5 @@
 # Droplets in Process
 <img width="960" alt="process" src="https://user-images.githubusercontent.com/114501322/201969494-adfe72e7-c8db-46fd-bf5a-fcc6a99844d9.png">
 
+# Open Droplet Web Console
+<img width="960" alt="Open Droplet Web Console" src="https://user-images.githubusercontent.com/114501322/201970461-5b6e52f0-d3de-4ab7-8121-87c63df9f2fd.png">
