@@ -10,4 +10,8 @@
 # Go to Control Panel
 <img width="960" alt="Control panel" src="https://user-images.githubusercontent.com/114501322/201967027-70b8194d-5849-4ae7-82ce-b6375199cd99.png">
 
+# Create Droplets
+<img width="960" alt="droplets" src="https://user-images.githubusercontent.com/114501322/201967963-d464e666-ea60-421b-93d7-1d8aa9e219cc.png">
+
+
 
