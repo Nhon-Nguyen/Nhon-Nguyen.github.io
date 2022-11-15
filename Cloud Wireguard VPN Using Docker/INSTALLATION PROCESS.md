@@ -23,3 +23,6 @@
 - Following step by step from this website to create wireguard: https://thematrix.dev/setup-wireguard-vpn-server-with-docker/
 
 <img width="960" alt="Success Create Wire" src="https://user-images.githubusercontent.com/114501322/201976923-2a60c2ce-458e-43e6-b725-b8217f9e58e6.png">
+
+# QR Code for Phone Log
+<img width="960" alt="QR Code" src="https://user-images.githubusercontent.com/114501322/201978662-1ecb4e4a-968e-496d-8e50-27005fd874e8.png">
