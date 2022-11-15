@@ -24,5 +24,10 @@
 
 <img width="960" alt="Success Create Wire" src="https://user-images.githubusercontent.com/114501322/201976923-2a60c2ce-458e-43e6-b725-b8217f9e58e6.png">
 
-# QR Code for Phone Log
+# QR Code for Phone to Connect
+- Open Wireguard VPN application on your phone, click +, Create from QR code
 <img width="960" alt="QR Code" src="https://user-images.githubusercontent.com/114501322/201978662-1ecb4e4a-968e-496d-8e50-27005fd874e8.png">
+
+# Connect My Phone to Wireguard VPN
+![phone](https://user-images.githubusercontent.com/114501322/201981461-8b9dad43-a76e-4732-83b3-f4938c4158ad.jpg)
+
