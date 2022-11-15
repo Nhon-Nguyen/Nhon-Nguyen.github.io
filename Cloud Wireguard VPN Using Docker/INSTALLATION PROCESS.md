@@ -18,3 +18,8 @@
 
 # Open Droplet Web Console
 <img width="960" alt="Open Droplet Web Console" src="https://user-images.githubusercontent.com/114501322/201970461-5b6e52f0-d3de-4ab7-8121-87c63df9f2fd.png">
+
+# Creating WireGuard
+- Following step by step from this website to create wireguard: https://thematrix.dev/setup-wireguard-vpn-server-with-docker/
+
+<img width="960" alt="Success Create Wire" src="https://user-images.githubusercontent.com/114501322/201976923-2a60c2ce-458e-43e6-b725-b8217f9e58e6.png">
