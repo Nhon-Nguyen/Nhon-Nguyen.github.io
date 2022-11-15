@@ -7,3 +7,7 @@
 # Main Page After Enter Payment Method
 <img width="960" alt="Begin free trial" src="https://user-images.githubusercontent.com/114501322/201964177-4b0c5349-d40c-4935-a304-14cf8f52aaab.png">
 
+# Go to Control Panel
+<img width="960" alt="Control panel" src="https://user-images.githubusercontent.com/114501322/201967027-70b8194d-5849-4ae7-82ce-b6375199cd99.png">
+
+
