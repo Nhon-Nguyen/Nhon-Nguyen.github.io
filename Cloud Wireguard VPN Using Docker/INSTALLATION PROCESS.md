@@ -31,3 +31,9 @@
 # Connect My Phone to Wireguard VPN
 ![phone](https://user-images.githubusercontent.com/114501322/201981461-8b9dad43-a76e-4732-83b3-f4938c4158ad.jpg)
 
+# Connect My Laptop to Wireguard VPN
+- On the left is my ip before I connect to Wireguard
+- On the right is my ip after I connected to wireguar
+<img width="960" alt="before" src="https://user-images.githubusercontent.com/114501322/202930108-d00f60bf-7528-4150-9c0b-105a98a5df29.png">
+
+
